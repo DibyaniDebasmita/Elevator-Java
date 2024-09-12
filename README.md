@@ -45,6 +45,11 @@ when you run the program, you will be promoted to enter the number of floor requ
  elevator : instance of the elevator class.
  totalFloors: The no of floors in the building.
 
+## Future Improvements
+
+*Multiple elevator*-Add support for multiple elevator.
+*Elevator capacity*-Add constraints on the number of passengers or weight limit for each trip.
+
 ## Author
 
 Dibyani Debasmita Behera
